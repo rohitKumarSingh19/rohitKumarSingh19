@@ -20,6 +20,22 @@
 
 ---
 
+### 📂 Featured Projects
+
+#### 📝 Resume Builder  
+- 🔗 [Frontend](https://resume-builder-app-2.netlify.app/)  
+- 🛠️ [Backend](https://two4-resumebuilder-backend-1.onrender.com/)
+
+#### 🏥 MediConnect App  
+- 🔗 [Frontend](https://admirable-kheer-300fa0.netlify.app/)  
+- 🛠️ [Backend](https://mediconnect-backend-4.onrender.com/)
+
+#### 🌐 Community Platform  
+- 🔗 [Frontend](https://community-platform-client.netlify.app/)  
+- 🛠️ [Backend](https://community-platform-client.onrender.com)
+
+---
+
 ### 🌐 Connect with me
 
 <p align="left">
@@ -72,6 +88,6 @@
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buy me a coffee" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
   </a>
 </p>
