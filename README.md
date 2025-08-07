@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on: [Resume Builder Project](https://github.com/rohitKumarSingh19/24_ResumeBuilder)  
 - 🌱 I’m currently learning: **Low Level Design (LLD) in TypeScript**  
-- 👨‍💻 Portfolio: [myportfolio-fullstack.netlify.app](https://portfolio-of-rohit-fullstack.netlify.app/)  
+- 👨‍💻 Portfolio: [myportfolio-fullstack.netlify.app](https://rohit-kumar-singh-full-stack.netlify.app/)  
 - 📫 Reach me at: **rohit.k.chauhan1997@gmail.com**
 
 ---
@@ -35,7 +35,9 @@
 - 🛠️ [Backend](https://community-platform-client.onrender.com)
 
 ---
+#### FakeStore-Product-Display-sorting-searching
 
+https://fakestore-product-display.netlify.app/
 ### 🌐 Connect with me
 
 <p align="left">
